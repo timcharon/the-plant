@@ -42,3 +42,27 @@ h2 {
     margin-left: auto;
     margin-right: auto;
 }
+
+.button-film {
+  position: absolute;
+  z-index: 1000;
+}
+
+#kino-img {
+  width: 800px;
+}
+
+#film-1 {
+  top: 350px;
+  left: 49vw;
+}
+
+#film-2 {
+  top: 410px;
+  left: 46vw;
+}
+
+#film-3 {
+  top: 460px;
+  left: 50vw;
+}
